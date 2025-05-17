@@ -49,9 +49,9 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
     end
     endmodule
 
-Developed by:JEYA SHIVANI S
+Developed by: NITHILA S
 
-RegisterNumber:24010976
+RegisterNumber:212224050025
 
 */
 
